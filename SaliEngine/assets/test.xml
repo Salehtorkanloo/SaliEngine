@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<STATES>
+	<MENU>
+		<TEXTURES>
+ 			<texture filename="assets/button.png" ID="button"/>
+		</TEXTURES>
+
+		<OBJECTS>
+ 			<object type="MenuButton" x="100" y="100"  height="32" width="32" textureID="button" callbackID="1"/>
+		</OBJECTS>
+	</MENU>
+</STATES>	
